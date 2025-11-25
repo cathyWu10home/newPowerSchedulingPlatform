@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e73b9fe8374b723",
+        "id": "7521f295969cdc4f",
         "type": "tabs",
-        "dimension": 77.47747747747746,
         "children": [
           {
-            "id": "9e49ea1f3328da39",
+            "id": "06c59389b2381d90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OR005/OR005.md",
-                "mode": "preview",
+                "file": "MR001/MR001.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "OR005"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d81d62e0b7fde47f",
-        "type": "tabs",
-        "dimension": 22.522522522522518,
-        "children": [
-          {
-            "id": "098b832a8eaefc47",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "MR001"
             }
           }
         ]
@@ -201,8 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "9e49ea1f3328da39",
+  "active": "06c59389b2381d90",
   "lastOpenFiles": [
+    "MR001/可操作功能鈕.png",
+    "MR001/MR001.md",
+    "TXG-HD000-03-2025_11_12.csv",
+    "星星花蓮三 1116~1206.csv",
+    "MR001/競價作業子功能介面.png",
+    "OR005/OR005.md",
+    "MR001/競價作業主功能介面.png",
+    "MR001",
     "OR005",
     "OR005/image 5.png",
     "OR005/image 4.png",
@@ -211,8 +201,6 @@
     "OR005/image 1.png",
     "OR005/image.png",
     "OR005/新電力調度平台_-_合格_交易商(QSE)_-__交易_群組(TXG)_-__場域_(RES).jpg",
-    "OR005/未命名.jpg",
-    "OR005/OR005.md",
     "Welcome.md"
   ]
 }
