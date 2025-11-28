@@ -4,41 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "ac0009e7d6cecd51",
+        "id": "32c77dd2c1fb9bd7",
         "type": "tabs",
         "children": [
           {
-            "id": "d0d9ed4427339e52",
+            "id": "416d1a0dcdc81d73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MR001/MR001.md",
+                "file": "PE002/PE002.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MR001"
+              "title": "PE002"
             }
           }
         ]
       },
       {
-        "id": "31974651ab8b415a",
+        "id": "8193d3cac576274b",
         "type": "tabs",
         "children": [
           {
-            "id": "94ef7e2ec9dcd742",
+            "id": "95b8aa37c1c29de0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MR001/MR001.md",
+                "file": "PE002/PE002.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MR001"
+              "title": "PE002"
             }
           }
         ]
@@ -203,14 +203,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "94ef7e2ec9dcd742",
+  "active": "416d1a0dcdc81d73",
   "lastOpenFiles": [
     "OR005/OR005.md",
+    "PE002/PE002.md",
     "MR001/MR001.md",
+    "MR001/4-2_1116~1206.csv",
+    "MR001/星星花蓮三1116~1206.csv.md",
+    "星星花蓮三 11162025_11_12.csv.md",
     "PE002/得標資訊_星星花蓮三_2025-11-05.csv",
     "MR001/TXG-HD000-03-2025_11_12.csv",
     "MR001/星星花蓮三 1116~1206.csv",
-    "PE002/PE002.md",
     "得標資訊_星星花蓮三_2025-11-05.csv",
     "OR005/新電力調度平台_-_合格_交易商(QSE)_-__交易_群組(TXG)_-__場域_(RES).jpg",
     "PE002/得標資訊.png",
