@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PE003.md",
+                "file": "PE003/PE003.md",
                 "mode": "source",
                 "source": true
               },
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PE003.md",
+                "file": "PE003/PE003.md",
                 "mode": "preview",
                 "source": true
               },
@@ -203,12 +203,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "54fd30f4d50699c9",
+  "active": "1918b852673d5c37",
   "lastOpenFiles": [
     "PE002/PE002.md",
-    "PE003.md",
+    "PE003/PE003.md",
     "Untitled.base",
-    "image.png",
+    "PE003/image.png",
     "PE003",
     "MR001/MR001.md",
     "OR005/OR005.md",
