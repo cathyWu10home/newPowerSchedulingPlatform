@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "32c77dd2c1fb9bd7",
+        "id": "f9bf4192a0955886",
         "type": "tabs",
         "children": [
           {
-            "id": "416d1a0dcdc81d73",
+            "id": "01a38c2ffe6ea717",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MR001/MR001.md",
+                "file": "PE003.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "PE003"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6730a9b403ef02d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54fd30f4d50699c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PE003.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MR001"
+              "title": "PE003"
             }
           }
         ]
@@ -78,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 200
   },
   "right": {
     "id": "ed8678058c7dbfbf",
@@ -183,11 +203,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "416d1a0dcdc81d73",
+  "active": "54fd30f4d50699c9",
   "lastOpenFiles": [
-    "OR005/OR005.md",
-    "MR001/MR001.md",
     "PE002/PE002.md",
+    "PE003.md",
+    "Untitled.base",
+    "image.png",
+    "PE003",
+    "MR001/MR001.md",
+    "OR005/OR005.md",
     "PE002/4-2_2025-11-05.csv",
     "MR001/4-2_1116~1206.csv",
     "MR001/星星花蓮三1116~1206.csv.md",
@@ -202,15 +226,12 @@
     "Untitled.canvas",
     "MR001/可操作功能鈕.png",
     "TXG-HD000-03-2025_11_12.csv",
-    "星星花蓮三 1116~1206.csv",
     "MR001/競價作業子功能介面.png",
     "MR001/競價作業主功能介面.png",
-    "MR001",
     "OR005/image 5.png",
     "OR005/image 4.png",
     "OR005/image 3.png",
     "OR005/image 2.png",
-    "OR005/image 1.png",
     "Welcome.md"
   ]
 }
